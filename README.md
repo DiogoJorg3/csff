@@ -1,2 +1,2 @@
-# csff
-Building a neoneolithical narrative
+# Community Supported Food Forests
+Building a new narrative hand in hand with life.
