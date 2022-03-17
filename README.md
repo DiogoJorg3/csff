@@ -12,4 +12,4 @@ City a lot of young people are keen to agroforestry and taking courses about it,
 Our main goal is to use tokenomics to create incentives and make it easier for people in the city to find nearby landowners and design mentors and access land through land lease contracts in a process of learning while doing it. The content of these "land labs" would
 Be then shared online in a platform that would serve as an online meeting space for these 3 different actors. 
 Production would  be tracked on blockchain and participant's digital identities would contain a variety of information about their learning level, badges, items (tools, seeds, etc) collected in a gamified long term learning journey.
-This grant will be use to pay for our content creators as the first block to build the community.
+This grant will be use to pay our content creators as we see them as the first primitive to build a community. As more  contributors come to build the tech side we will be able to budget and apply for more grants.
